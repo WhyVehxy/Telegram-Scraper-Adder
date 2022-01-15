@@ -1,5 +1,5 @@
 #!/bin/env python3
-# code by : Termux Professor
+# code by : Termux Professor 
 
 """
 
@@ -20,8 +20,8 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
 	           Version : 1.01
-	{re}Subscribe Termux Professor on Youtube
-	{cy}www.youtube.com/c/TermuxProfessorYT
+	{re}Join The Telegram for assistance
+	{cy}https://t.me/VehxysServices
 	""")
 banner()
 print(gr+"[+] Installing requierments ...")
@@ -42,5 +42,3 @@ cpass.write(setup)
 setup.close()
 print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
-print(gr+"[+] make sure to read docs 4 installation & api setup")
-print(gr+"[+] https://github.com/termuxprofessor/TeleGram-Scraper-Adder/blob/master/README.md")
